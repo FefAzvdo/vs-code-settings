@@ -1,0 +1,13 @@
+Color Highlight
+
+Dracula Official
+
+Editor Config for VS Code
+
+ESLint
+
+GitLens - Git supercharged
+
+Material Icon Theme
+
+Portuguese (Brazil) Language Pack for Visual Studio Code
